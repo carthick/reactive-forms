@@ -14,3 +14,8 @@ using formCotrol instead of formControlName will help if we want to validate onl
 * use AbstractControl, ValidationErrors, ValidatorFn
 * test cases like hasUpperCase, hasLowerCase, hasNumeric , passwordValid
 * return statement is little tricky
+
+<ins>#25-Form Builder</ins>
+
+* To reduce the verbose code we will introduce formBuilder Service
+* use formcontrolName in template
